@@ -33,7 +33,7 @@ PayTrack is a personal finance management website built with React.js, utilizing
 1. Clone the repository:
 
    ```bash
-   git clone (https://github.com/Bimal022/Paytrack)
+   git clone (https://github.com/prachi0701/Paytrack-main.git)
 2. Install dependencies:
 bash
 Copy code
